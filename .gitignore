@@ -1,0 +1,17 @@
+# Data
+*.csv
+
+# Model artifacts (large binary files - regenerate by running the notebook)
+artifacts/*.pkl
+
+# MLflow
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/
