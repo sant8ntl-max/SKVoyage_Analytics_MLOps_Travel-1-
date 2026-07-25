@@ -6,7 +6,8 @@ Capstone project: end-to-end ML system for the travel & tourism domain, covering
 flight price regression, gender classification, and hotel recommendation — plus
 the full MLOps stack to serve, containerise, orchestrate, and monitor it.
 
-**GitHub Repository:** `<PASTE YOUR GITHUB REPO LINK HERE AFTER YOU CREATE IT>`
+**GitHub Repository:**  https://github.com/sant8ntl-max/SKVoyage_Analytics_MLOps_Travel-1-
+
 
 ---
 
